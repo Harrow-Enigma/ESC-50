@@ -1,5 +1,11 @@
 ## ESC-50: Dataset for Environmental Sound Classification
 
+# Team Enigma Version
+
+Run `pip install -r requirements.txt`. Optionally, also install Jupyter to open the IPython interactive notebooks (`pip install jupyterlab`).
+
+---
+
 > ###### [Overview](#esc-50-dataset-for-environmental-sound-classification) | [Download](#download) | [Results](#results) | [Repository content](#repository-content) | [License](#license) | [Citing](#citing) | [Caveats](#caveats) | [Changelog](#changelog)
 >
 > <a href="https://circleci.com/gh/karoldvl/ESC-50"><img src="https://circleci.com/gh/karoldvl/ESC-50.svg?style=svg" /></a>&nbsp;
